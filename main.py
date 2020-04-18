@@ -7,8 +7,6 @@ import math
 
 from kalman import kalman_filter
 
-def nothing(*arg):
-    pass
 
 #Global variables to store measurements
 kalman_obj = []
